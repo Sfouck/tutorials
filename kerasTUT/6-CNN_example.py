@@ -1,7 +1,6 @@
-"""
-To know more or get code samples, please visit my website:
+"""To know more or get code samples, please visit my website:
 https://morvanzhou.github.io/tutorials/
-Or search: 莫烦Python
+Or search: Python
 Thank you for supporting!
 """
 
